@@ -1,0 +1,21 @@
+User Manual
+
+To launch the Voting Machine software, first press "Run" to run the PerfectCandidate
+class. You will be prompted to select an input file, which should conatin a ballot. Select
+"Browse" to search for the correct input file. Once the file is selected, press "OK."
+
+You will then be presented with a ballot and choices of candidates to vote for. Select the
+candidate you would like to vote for, then select "Cast Vote." After casting a vote, you
+will be asked to confirm your selection. If you have selected the correct candidate, press
+"OK." Once you are finished casting your vote, close the ballot by clicking the x in the 
+top right corner. You will be asked if you are done casting votes. If so, select "Yes."
+
+Now you will be prompted to select an output file, a file in which the results of the
+election will be displayed. To search for a file, select "Browse." If you select a file
+that already exists, you will be asked if you want to overwrite the existing file's
+contents. Select "Yes," then "OK." The election results can now be viewed in the output
+file selected.
+
+The program has now terminated.
+
+To quit the program at any time, select "Cancel," or click the x in the top right corner.
